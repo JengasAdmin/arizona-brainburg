@@ -1,0 +1,13 @@
+node_modules
+dist
+*.tsbuildinfo
+
+# служебные артефакты разработки
+.scraped
+.shots
+
+# локальные настройки
+*.local
+.env
+.env.*
+.DS_Store
